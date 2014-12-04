@@ -69,6 +69,7 @@ class FreshRSS_Configuration {
 	private $available_languages = array(
 		'en' => 'English',
 		'fr' => 'Français',
+		'he' => 'עברית',
 	);
 
 	private $shares;
